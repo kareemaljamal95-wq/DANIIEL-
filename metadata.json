@@ -1,0 +1,6 @@
+{
+  "name": "Daniel — Aesthetic & Reconstructive Plastic Surgery Maison",
+  "description": "Private craniofacial, facial sculpture, and reconstructive plastic surgery practice by Dr. Daniel, featuring an interactive anatomical planner, clinical outcome architecture, and private concierge consultation booking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
